@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-flip-out-y",
+  "description": "flip-out-y animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "flip-out-y"
+  ],
+  "styles": [
+    "flip-out-y.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
